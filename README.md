@@ -1,1 +1,1 @@
-# covid-lookup-ipl
+# covid-ipl
